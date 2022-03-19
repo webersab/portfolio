@@ -2,9 +2,9 @@
 
 # Scientist
 <figure class="third">
-	<img src="images/publications_thumbnail.png" alt="drawing" width="200"/>
-	<img src="images/ai_ethics_thumbnail.png" alt="drawing" width="200"/>
-	<img src="images/software_thumbnail.png" alt="drawing" width="200"/>
+	<img src="images/publications_thumbnail.png" alt="drawing" width="300"/>
+	<img src="images/ai_ethics_thumbnail.png" alt="drawing" width="300"/>
+	<img src="images/software_thumbnail.png" alt="drawing" width="300"/>
 </figure>
 		
 You can find my publications [here](https://scholar.google.de/citations?hl=en&user=snjif4AAAAAJ). My academic work focuses on Natural Language Processing, and specifically on multilingual systems.
@@ -15,9 +15,9 @@ I feel very passionate about open source software and I think research code shou
 
 # Organiser
 <figure class="third">
-	<img src="images/virtual_events_thumbnail.png" alt="drawing" width="200"/>
-	<img src="images/in_person_events_thumbnail.png" alt="drawing" width="200"/>
-	<img src="images/talks_thumbnail.png" alt="drawing" width="200"/>
+	<img src="images/virtual_events_thumbnail.png" alt="drawing" width="300"/>
+	<img src="images/in_person_events_thumbnail.png" alt="drawing" width="300"/>
+	<img src="images/talks_thumbnail.png" alt="drawing" width="300"/>
 </figure>
 
 I was [NAACL 2021](https://2021.naacl.org/) Social Chair. My responsibilities:
@@ -32,9 +32,9 @@ You can see talks I’ve held about different topics like my work with Queer in 
 
 # Artist
 <figure class="third">
-	<img src="images/visual_art_thumbnail.png" alt="drawing" width="200"/>
-	<img src="images/performance_thunbnail.png" alt="drawing" width="200"/>
-	<img src="images/writing_thumbnail.png" alt="drawing" width="200"/>
+	<img src="images/visual_art_thumbnail.png" alt="drawing" width="300"/>
+	<img src="images/performance_thunbnail.png" alt="drawing" width="300"/>
+	<img src="images/writing_thumbnail.png" alt="drawing" width="300"/>
 </figure>
 
 I make digital collages, lino prints and textiles. You can see some examples of each of these art forms below. My visual art has been published in [the Inkwell](https://issuu.com/publishedinburgh/docs/liminality).
