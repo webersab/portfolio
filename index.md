@@ -38,3 +38,5 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 # Hello World
 <img src="images/ai_ethics_thumbnail.png" alt="drawing" width="200"/>
+<img src="images/ai_ethics_thumbnail.png" alt="drawing" width="200"/>
+<img src="images/ai_ethics_thumbnail.png" alt="drawing" width="200"/>
