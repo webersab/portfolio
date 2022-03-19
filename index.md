@@ -51,7 +51,24 @@ I feel very passionate about open source software and I think research code shou
 
 # Organiser
 <figure class="third">
-	<img src="images/publications_thumbnail.png" alt="drawing" width="200"/>
-	<img src="images/ai_ethics_thumbnail.png" alt="drawing" width="200"/>
-	<img src="images/software_thumbnail.png" alt="drawing" width="200"/>
+	<img src="images/virtual_events_thumbnail.png" alt="drawing" width="200"/>
+	<img src="images/in_person_events_thumbnail.png" alt="drawing" width="200"/>
+	<img src="images/talks_thumbnail.png" alt="drawing" width="200"/>
+</figure>
+
+I was NAACL 2021 Social Chair. My responsibilities:
+- Enabling financial access to the conference as part of the D&I team, see here
+- Organizing social events and supporting grass-root organizations in conducting their socials. Examples are here, and events with the following affinity groups like here
+- Hosting a diversity and inclusivity panel discussion: here
+I was also host to three Queer in AI conference socialsat EACL 2021, Coling 2020 andEMNLP 2020
+
+I hosted Informatics Open Art Space, a weekly in-person art making event at the University of Edinburgh, connecting researchers, PhD students and administrative staff and offering art forms such as painting, sculpting, lino print and collage. We also had a badge making machine and embroidery kits to produce wearable art. During the pandemic we continued the event virtually. 
+
+You can see talks I’ve held about different topics like my work with Queer in AI, diversity and inclusion efforts and the Informatics Open Art Space here and here
+
+# Artist
+<figure class="third">
+	<img src="images/virtual_events_thumbnail.png" alt="drawing" width="200"/>
+	<img src="images/in_person_events_thumbnail.png" alt="drawing" width="200"/>
+	<img src="images/talks_thumbnail.png" alt="drawing" width="200"/>
 </figure>
