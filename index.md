@@ -36,12 +36,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-# Hello World
+# Scientist
 <figure class="third">
 	<img src="images/publications_thumbnail.png" alt="drawing" width="200"/>
 	<img src="images/ai_ethics_thumbnail.png" alt="drawing" width="200"/>
 	<img src="images/software_thumbnail.png" alt="drawing" width="200"/>
-	<figcaption> A caption <\figcaption>
 </figure>
 		
 You can find my publications here. My academic work focuses on Natural Language Processing, and specifically on multilingual systems.
@@ -49,3 +48,10 @@ You can find my publications here. My academic work focuses on Natural Language 
 In addition to providing a safe place to socialise at conferences and advocating for queer researchers in AI, Queer in AI has released a guide on how to make conferences more inclusive for queer people. I have been a co-author and you can read it here.
 		
 I feel very passionate about open source software and I think research code should be available to the public. You can find the code that goes along with my publications here.
+
+# Organiser
+<figure class="third">
+	<img src="images/publications_thumbnail.png" alt="drawing" width="200"/>
+	<img src="images/ai_ethics_thumbnail.png" alt="drawing" width="200"/>
+	<img src="images/software_thumbnail.png" alt="drawing" width="200"/>
+</figure>
