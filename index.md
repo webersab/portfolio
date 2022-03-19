@@ -81,8 +81,6 @@ I performed at the Stand Comedy Club in Edinburgh, doing a 7-minute set on AI, a
 
 I am writing about my research for a lay audience on my blog. I also write creative nonfiction, examples of which you can find here. My writing has been published by butchisnotadirtyword magazine.
 
-<figure class="third">
-	<img src="images/visual_art_thumbnail.png" alt="drawing" width="200"/>
-	<img src="images/performance_thunbnail.png" alt="drawing" width="200"/>
-	<img src="images/writing_thumbnail.png" alt="drawing" width="200"/>
-</figure>
+<img src="images/digital_collage.png" alt="drawing" width="600"/>
+<img src="images/lino_print.png" alt="drawing" width="600"/>
+<img src="images/textiles.png" alt="drawing" width="600"/>
