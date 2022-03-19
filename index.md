@@ -43,6 +43,6 @@ I performed at the Stand Comedy Club in Edinburgh, doing a 7-minute set on AI, a
 
 I am writing about my research for a lay audience on [my blog](https://homepages.inf.ed.ac.uk/s1782911/index.html). I also write creative non-fiction, examples of which you can find [here](https://drive.google.com/drive/folders/1c9aomoTxQI-OmB6usZMHTV6HjLzsupIH). My writing has been published by [butchisnotadirtyword magazine](https://butchisnotadirtyword.com/).
 
-<img src="images/digital_collage.png" alt="drawing" width="600"/>
-<img src="images/lino_print.png" alt="drawing" width="600"/>
-<img src="images/textiles.png" alt="drawing" width="600"/>
+<img src="images/digital_collage.png" alt="drawing" width="900"/>
+<img src="images/lino_print.png" alt="drawing" width="900"/>
+<img src="images/textiles.png" alt="drawing" width="900"/>
