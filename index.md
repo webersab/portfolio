@@ -22,8 +22,8 @@ I feel very passionate about open source software and I think research code shou
 
 I was [NAACL 2021](https://2021.naacl.org/) Social Chair. My responsibilities:
 - Enabling financial access to the conference as part of the D&I team, [see here](https://www.youtube.com/watch?v=SDBS8DFVENY)
-- Organizing social events and supporting grass-root organizations in conducting their socials. Examples are here, and events with the following affinity groups like [here](https://2021.naacl.org/blog/mexican-event/)
-- Hosting a diversity and inclusivity panel discussion: [here](https://www.youtube.com/watch?v=mCVY4mRqNok&t=236s)
+- Organizing social events and supporting grass-root organizations in conducting their socials. One example was the Mexican culture series [here](https://2021.naacl.org/blog/mexican-event/), and events with affinity groups [here](https://2021.naacl.org/blog/affinity-groups/)
+- Hosting a diversity and inclusion panel discussion: [here](https://www.youtube.com/watch?v=mCVY4mRqNok&t=236s)
 I was also host to three Queer in AI conference socials at [EACL 2021](https://sites.google.com/view/queer-in-ai/eacl-2021?authuser=0), [Coling 2020](https://sites.google.com/view/queer-in-ai//coling-2020) and [EMNLP 2020](https://sites.google.com/view/queer-in-ai//emnlp2020)
 
 I hosted Informatics Open Art Space, a weekly in-person art making event at the University of Edinburgh, connecting researchers, PhD students and administrative staff and offering art forms such as painting, sculpting, lino print and collage. We also had a badge making machine and embroidery kits to produce wearable art. During the pandemic we continued the event virtually. 
