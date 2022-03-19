@@ -69,7 +69,7 @@ You can see talks I’ve held about different topics like my work with Queer in 
 # Artist
 <figure class="third">
 	<img src="images/visual_art_thumbnail.png" alt="drawing" width="200"/>
-	<img src="images/performance_thumbnail.png" alt="drawing" width="200"/>
+	<img src="images/performance_thunbnail.png" alt="drawing" width="200"/>
 	<img src="images/writing_thumbnail.png" alt="drawing" width="200"/>
 </figure>
 
@@ -81,6 +81,6 @@ I am writing about my research for a lay audience on my blog. I also write creat
 
 <figure class="third">
 	<img src="images/visual_art_thumbnail.png" alt="drawing" width="200"/>
-	<img src="images/performance_thumbnail.png" alt="drawing" width="200"/>
+	<img src="images/performance_thunbnail.png" alt="drawing" width="200"/>
 	<img src="images/writing_thumbnail.png" alt="drawing" width="200"/>
 </figure>
