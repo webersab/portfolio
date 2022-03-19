@@ -69,7 +69,7 @@ You can see talks I’ve held about different topics like my work with Queer in 
 # Artist
 <figure class="third">
 	<img src="images/visual_art_thumbnail.png" alt="drawing" width="200"/>
-	<img src="images/performace_thumbnail.png" alt="drawing" width="200"/>
+	<img src="images/performance_thumbnail.png" alt="drawing" width="200"/>
 	<img src="images/writing_thumbnail.png" alt="drawing" width="200"/>
 </figure>
 
@@ -78,3 +78,9 @@ I make digital collages, lino prints and textiles. You can see some examples of 
 I performed at the Stand Comedy Club in Edinburgh, doing a 7-minute set on AI, alongside many other AI practitioners and comedians. You can see a video of it here.
 
 I am writing about my research for a lay audience on my blog. I also write creative nonfiction, examples of which you can find here. My writing has been published by butchisnotadirtyword magazine.
+
+<figure class="third">
+	<img src="images/visual_art_thumbnail.png" alt="drawing" width="200"/>
+	<img src="images/performance_thumbnail.png" alt="drawing" width="200"/>
+	<img src="images/writing_thumbnail.png" alt="drawing" width="200"/>
+</figure>
