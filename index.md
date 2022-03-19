@@ -49,6 +49,8 @@ In addition to providing a safe place to socialise at conferences and advocating
 		
 I feel very passionate about open source software and I think research code should be available to the public. You can find the code that goes along with my publications here.
 
+<img src="images/virtual_events_thumbnail.png" alt="drawing" width="600"/>
+
 # Organiser
 <figure class="third">
 	<img src="images/virtual_events_thumbnail.png" alt="drawing" width="200"/>
