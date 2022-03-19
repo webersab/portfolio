@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-<img src="images/virtual_events_thumbnail.png" alt="drawing" width="600"/>
+<img src="images/venn_diagram_with_labels.png" alt="drawing" width="600"/>
 
 # Scientist
 <figure class="third">
