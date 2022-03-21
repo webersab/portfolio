@@ -6,12 +6,13 @@
 	<img src="images/ai_ethics_thumbnail.png" alt="drawing" width="300"/>
 	<img src="images/software_thumbnail.png" alt="drawing" width="300"/>
 </figure>
-		
+Disclaimer: Because I am a scientist, organiser and performing artists, it is difficult to show examples of my work while preserving my anonimity. My body and my person are an integral part of what I do. Nevertheless I made an attempt to remove references that would immediately lead to my name, but many of the videos include me introducing myself, and it is up to the comission whether they should view them or not. 		
+
 My academic work focuses on Natural Language Processing, and specifically on multilingual systems. For the preservation of the anonimity of this applications I can only provide links to my papers upon request.
 
 In addition to providing a safe place to socialise at conferences and advocating for queer researchers in AI, [Queer in AI](https://sites.google.com/view/queer-in-ai/home) has released a guide on how to make conferences more inclusive for queer people. I have been a co-author and you can read it [here](https://sites.google.com/view/queer-in-ai/diversity-guide?authuser=0).
 		
-I feel very passionate about open source software and I think research code should be available to the public. You can find the code that goes along with my publications on github [here](https://github.com/webersab).
+I feel very passionate about open source software and I think research code should be available to the public. You can find the code that goes along with my publications on github. To preserve the anonimity of this application, I will provide the link upon request. 
 
 # Organiser
 <figure class="third">
@@ -41,7 +42,7 @@ I make digital collages, lino prints and textiles. You can see some examples of 
 
 I performed at the Stand Comedy Club in Edinburgh, doing a 7-minute set on AI, alongside many other AI practitioners and comedians. You can see a video of it [here](https://vimeo.com/684162111).
 
-I am writing about my research for a lay audience on [my blog](https://homepages.inf.ed.ac.uk/s1782911/index.html). I also write creative non-fiction, examples of which you can find [here](https://drive.google.com/drive/folders/1c9aomoTxQI-OmB6usZMHTV6HjLzsupIH). My writing has been published by [butchisnotadirtyword magazine](https://butchisnotadirtyword.com/).
+I am writing about my research for a lay audience on [my blog]. To preserve the anonimity of this application, I will provide the link upon request. I also write creative non-fiction, examples of which you can find [here](https://drive.google.com/drive/folders/1c9aomoTxQI-OmB6usZMHTV6HjLzsupIH). My writing has been published by [butchisnotadirtyword magazine](https://butchisnotadirtyword.com/).
 
 <img src="images/digital_collage.png" alt="drawing" width="900"/>
 <img src="images/lino_print.png" alt="drawing" width="900"/>
