@@ -7,11 +7,11 @@
 	<img src="images/software_thumbnail.png" alt="drawing" width="300"/>
 </figure>
 		
-You can find my publications [here](https://scholar.google.de/citations?hl=en&user=snjif4AAAAAJ). My academic work focuses on Natural Language Processing, and specifically on multilingual systems.
+My academic work focuses on Natural Language Processing, and specifically on multilingual systems. For the preservation of the anonimity of this applications I can only provide links to my papers upon request.
 
 In addition to providing a safe place to socialise at conferences and advocating for queer researchers in AI, [Queer in AI](https://sites.google.com/view/queer-in-ai/home) has released a guide on how to make conferences more inclusive for queer people. I have been a co-author and you can read it [here](https://sites.google.com/view/queer-in-ai/diversity-guide?authuser=0).
 		
-I feel very passionate about open source software and I think research code should be available to the public. You can find the code that goes along with my publications [here](https://github.com/webersab).
+I feel very passionate about open source software and I think research code should be available to the public. You can find the code that goes along with my publications on github [here](https://github.com/webersab).
 
 # Organiser
 <figure class="third">
